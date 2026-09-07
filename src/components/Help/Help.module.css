@@ -1,0 +1,22 @@
+.helpContainer {
+  padding: 25px;
+  min-height: 100vh;
+}
+
+.helpCard {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.helpCardHeader {
+  background-color: rgb(0, 255, 128);
+  color: #00000081;
+  border-radius: 5px 5px 0 0;
+  padding: 10px;
+}
+
+.helpCardBody {
+  padding: 10px;
+}

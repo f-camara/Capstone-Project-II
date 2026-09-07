@@ -1,0 +1,26 @@
+.footerContainer {
+  position: absolute;
+  bottom: 0;
+  width: 25%;
+}
+
+.footerButton {
+  background-color: rgb(0, 255, 128) !important;
+  color: #00000081 !important;
+  border: none !important;
+  padding: 17px !important;
+  font-weight: 600 !important;
+  width: 100%;
+}
+
+@media screen and (min-width: 1200px) {
+  .footerContainer {
+    width: 16.7%;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .footerContainer {
+    width: 8.35%;
+  }
+}

@@ -1,0 +1,26 @@
+.loginContainer {
+  max-width: 600px;
+  margin-top: 230px;
+}
+
+.accountCreate {
+  padding: 17px 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  background-color: rgba(0, 165, 211, 0.507);
+}
+
+.loginButton {
+  background-color: rgb(0, 255, 128) !important;
+  color: #00000081 !important;
+  border: none !important;
+  padding: 14px !important;
+  font-weight: 600 !important;
+}
+
+.whoops {
+  padding: 17px 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  background-color: rgba(105, 0, 211, 0.507);
+}
